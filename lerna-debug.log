@@ -5,7 +5,7 @@
 0 silly argv }
 1 notice cli v4.0.0
 2 verbose rootPath D:\home\wuan-cli-dev\wuan-cli-dev
-3 info current version 0.0.0
+3 info current version 1.0.0
 4 silly isAnythingCommitted
 5 verbose isAnythingCommitted 1
 6 silly getCurrentBranch
@@ -18,8 +18,8 @@
 13 info Assuming all packages changed
 14 verbose updated @wuan-cli-dev/core
 15 verbose updated @wuan-cli-dev/utils
-16 verbose git-describe undefined => "bc38139"
-17 silly git-describe parsed => {"refCount":"2","sha":"bc38139","isDirty":false}
+16 verbose git-describe undefined => "877724b"
+17 silly git-describe parsed => {"refCount":"3","sha":"877724b","isDirty":false}
 18 info execute Skipping releases
 19 silly lifecycle No script for "preversion" in "wuan-cli-dev", continuing
 20 silly lifecycle No script for "preversion" in "@wuan-cli-dev/utils", continuing
