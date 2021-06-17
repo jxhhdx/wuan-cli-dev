@@ -1,6 +1,6 @@
 {
   "name": "@wuan-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "wuan-cli-dev core",
   "author": "gaoxiang <igaoxian@foxmail.com>",
   "homepage": "",
@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "@wuan-cli-dev/utils": "^1.0.2"
-  }
+  },
+  "gitHead": "369bea481a79d8f3689066c397164a129fb2b3b9"
 }
