@@ -1,0 +1,22 @@
+{
+  "name": "@wuan-cli-dev/core",
+  "version": "0.0.0",
+  "description": "wuan-cli-dev core",
+  "author": "gaoxiang <igaoxian@foxmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: Run testing from core \""
+  },
+  "dependencies": {
+    "@wuan-cli-dev/utils": "^0.0.0"
+  }
+}
