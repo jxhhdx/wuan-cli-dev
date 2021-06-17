@@ -1,6 +1,6 @@
 {
   "name": "@wuan-cli-dev/core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "wuan-cli-dev core",
   "author": "gaoxiang <igaoxian@foxmail.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: Run testing from core \""
   },
   "dependencies": {
-    "@wuan-cli-dev/utils": "^1.0.2"
+    "@wuan-cli-dev/utils": "^1.0.5"
   },
   "gitHead": "fd80827406fa0b80354627a4958b736873501a4f",
   "publishConfig": {
