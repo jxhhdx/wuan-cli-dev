@@ -1,6 +1,6 @@
 {
   "name": "@wuan-cli-dev/utils",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "wuan-cli-dev utils",
   "author": "gaoxiang <igaoxian@foxmail.com>",
   "homepage": "",
@@ -15,7 +15,5 @@
   ],
   "scripts": {
     "test": "echo \"Error: Run testing from utils \""
-  },
-  "dependencies": {
   }
 }
