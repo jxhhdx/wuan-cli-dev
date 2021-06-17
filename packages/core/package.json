@@ -22,5 +22,8 @@
   "dependencies": {
     "@wuan-cli-dev/utils": "^1.0.2"
   },
-  "gitHead": "369bea481a79d8f3689066c397164a129fb2b3b9"
+  "gitHead": "fd80827406fa0b80354627a4958b736873501a4f",
+  "publishConfig": {
+    "access": "public"
+  }
 }
